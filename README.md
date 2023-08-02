@@ -21,7 +21,7 @@ Follow the steps below to get the project up and running on your local machine:
 To clone the repository, open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/your-username/stripe-payment-integration.git
+git clone https://github.com/Ghnshym/stripe-payment-in-laravel.git
 ```
 
 Alternatively, you can download the ZIP file by clicking on the "Code" button on the repository page and selecting "Download ZIP."
@@ -31,7 +31,7 @@ Alternatively, you can download the ZIP file by clicking on the "Code" button on
 Navigate to the project directory and install the project dependencies using Composer:
 
 ```bash
-cd stripe-payment-integration
+cd stripe-payment-in-laravel
 composer install
 ```
 
@@ -94,12 +94,5 @@ To test the Stripe payment integration, use the following test card details:
 
 Please note that these are test card details meant for demonstration purposes only. In a real production environment, you would need to use valid card information.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ```
-
-Make sure to replace the placeholders such as `your-username`, `your-database-name`, `your-database-username`, `your-database-password`, `your-stripe-publishable-key`, and `your-stripe-secret-key` with the actual values.
-
-With this README.md file, anyone visiting your GitHub repository will have clear instructions on how to clone, install dependencies, configure environment variables, migrate the database, and test the Stripe payment integration in the Laravel project. Happy coding!
+Thank You for Visiting Here :)) Happy Coding😊 
