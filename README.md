@@ -81,7 +81,8 @@ You can use the built-in development server to run the application:
 php artisan serve
 ```
 
-The application will be available at `http://localhost:8000`.
+The application will be available at `http://localhost:8000/stripe`.
+
 
 ## Testing Stripe Payment
 
