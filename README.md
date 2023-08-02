@@ -65,7 +65,7 @@ STRIPE_SECRET=your-stripe-secret-key
 
 Replace `your-random-key`, `your-database-name`, `your-database-username`, `your-database-password`, `your-stripe-publishable-key`, and `your-stripe-secret-key` with your actual values.
 
-You can generate APP_KEY using this artisan :
+You can generate `APP_KEY` using this artisan :
 
 ```bash
 php artisan key:generate
