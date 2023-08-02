@@ -64,10 +64,11 @@ STRIPE_SECRET=your-stripe-secret-key
 ```
 
 Replace `your-random-key`, `your-database-name`, `your-database-username`, `your-database-password`, `your-stripe-publishable-key`, and `your-stripe-secret-key` with your actual values.
-You can use the built-in development server to run the application:
+
+You can generate APP_KEY using this artisan :
 
 ```bash
-php artisan serve
+php artisan key:generate
 ```
 
 ### 4. Migrate Database
