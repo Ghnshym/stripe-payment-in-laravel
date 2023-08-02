@@ -1,4 +1,4 @@
-```markdown
+
 # Stripe Payment Integration with Laravel
 
 This is a simple Laravel web application that demonstrates the integration of Stripe payment for processing card payments. Users can make test payments using the provided test card details.
